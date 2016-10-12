@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Anagram.cs" />
     <Compile Include="Helpers\AnagramHandler.cs" />
+    <Compile Include="Helpers\FileHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
