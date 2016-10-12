@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Anagrams
 {
-    public class Class1
+    public class Anagram
     {
     }
 }
